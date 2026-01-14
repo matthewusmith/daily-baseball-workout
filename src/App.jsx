@@ -591,7 +591,7 @@ const HomeView = () => (
       <AudioPlayer filename="home-welcome.mp3" label="Welcome Message from Coach" />
     </div>
 <div style={{ marginTop: '30px', marginBottom: '30px' }}>
-        <h2>style={{ color: 'white', textAlign: 'center' }}>Baseball Highlight Video of the Day</h2>
+        <h2 style={{ color: 'white', textAlign: 'center' }}>Baseball Highlight Video of the Day</h2>
         <div style={{ 
           position: 'relative', 
           paddingBottom: '56.25%', /* 16:9 aspect ratio */ 
