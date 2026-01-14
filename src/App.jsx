@@ -591,7 +591,7 @@ const HomeView = () => (
       <AudioPlayer filename="home-welcome.mp3" label="Welcome Message from Coach" />
     </div>
 <div style={{ marginTop: '30px', marginBottom: '30px' }}>
-        <h2 style={{ color: 'white', textAlign: 'center' }}>Baseball Highlight Video of the Day</h2>
+        <h3 style={{ color: 'white', textAlign: 'center' }}>Baseball Highlight Video of the Day</h3>
         <div style={{ 
           position: 'relative', 
           paddingBottom: '56.25%', /* 16:9 aspect ratio */ 
@@ -745,7 +745,6 @@ function App() {
       <div style={{ opacity: showSplash ? 0 : 1, transition: 'opacity 1s ease' }}>
         <header className="app-header">
           <div className="header-title-row">
-            <img src="/icon.png" className="app-logo" alt="Logo" />
             <h1>Coach D's Daily Training</h1>
           </div>
           <button onClick={handleManualRefresh} className="refresh-btn">
