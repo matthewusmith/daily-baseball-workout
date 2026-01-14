@@ -1,0 +1,205 @@
+{
+  "monday": {
+    "title": "Leg Power & Linear Speed",
+    "theme": "Building the Engine",
+    "audioFilename": "monday-intro.mp3",
+    "exercises": [
+      {
+        "name": "Bodyweight Squat Jumps",
+        "sets": "3",
+        "reps": "8",
+        "cue": "Land soft like a ninja. Explode up, absorb the landing.",
+        "videoFilename": "Bodyweight-squat-jumps.mp4"
+      },
+      {
+        "name": "Reverse Lunges",
+        "sets": "3",
+        "reps": "12 / leg",
+        "cue": "Keep chest tall. Don't let the front knee cave in.",
+        "videoFilename": "Reverse-lunges.mp4"
+      },
+      {
+        "name": "Single-Leg Glute Bridges",
+        "sets": "3",
+        "reps": "12 / leg",
+        "cue": "Drive through the heel. Feel it in the hamstring/glute.",
+        "videoFilename": "Single-leg-glute-bridges.mp4"
+      },
+      {
+        "name": "Lateral High Knees Shuffle",
+        "sets": "5",
+        "reps": "10 yds",
+        "cue": "Violent arm action. Drive elbows back.",
+        "videoFilename": "Lateral-high-knee-shuffles.mp4"
+      },
+      {
+        "name": "Plank Shoulder Taps",
+        "sets": "3",
+        "reps": "45 sec",
+        "cue": "Hips stay still! Imagine a glass of water on your back.",
+        "videoFilename": "Plank-shoulder-taps.mp4"
+      },
+      {
+        "name": "Alternating Jump Lunges (Burnout)",
+        "sets": "1",
+        "reps": "Max Effort",
+        "cue": "Be explosive but safe. If form breaks, stop.",
+        "videoFilename": "Alternating-jump-lunges.mp4"
+      }
+    ]
+  },
+  "wednesday": {
+    "title": "Upper Body & Rotational Core",
+    "theme": "The Swing & The Throw",
+    "audioFilename": "wednesday-intro.mp3",
+    "exercises": [
+      {
+        "name": "Push-Up with T-Rotation",
+        "sets": "3",
+        "reps": "5 / side",
+        "cue": "Push up, then reach for the sky. Follow hand with eyes.",
+        "videoFilename": "Push-up-t-rotation.mp4"
+      },
+      {
+        "name": "Russian Twists",
+        "sets": "3",
+        "reps": "10 ea",
+        "cue": "Squeeze shoulder blades together. Thumbs up.",
+        "videoFilename": "Russian-twists.mp4"
+      },
+      {
+        "name": "Spiderman Push-ups",
+        "sets": "3",
+        "reps": "10",
+        "cue": "Knees hover 1 inch off ground. Alternating leg.",
+        "videoFilename": "Spiderman-push-ups.mp4"
+      },
+      {
+        "name": "Knee to Elbows",
+        "sets": "3",
+        "reps": "25 total",
+        "cue": "Rotate shoulders, not just hands.",
+        "videoFilename": "Knee-to-elbow.mp4"
+      },
+      {
+        "name": "Side Plank Dips",
+        "sets": "3",
+        "reps": "12 / side",
+        "cue": "Drop hip to floor, drive it up high.",
+        "videoFilename": "Side-plank-dips.mp4"
+      },
+      {
+        "name": "Seated V-Ups (Burnout)",
+        "sets": "1",
+        "reps": "To Failure",
+        "cue": "Hands stabilize body. Lift legs over object.",
+        "videoFilename": "Seated-v-ups.mp4"
+      }
+    ]
+  },
+  "friday": {
+    "title": "Agility, Fielding & Conditioning",
+    "theme": "Game Ready",
+    "audioFilename": "friday-intro.mp3",
+    "exercises": [
+      {
+        "name": "Skater Jumps",
+        "sets": "3",
+        "reps": "8 / side",
+        "cue": "Push off outside edge of foot. Stick the landing.",
+        "videoFilename": "Skater-jumps.mp4"
+      },
+      {
+        "name": "Lateral Line Hops",
+        "sets": "3",
+        "reps": "20 sec",
+        "cue": "Hop over/back as fast as possible.",
+        "videoFilename": "Lateral-line-hops.mp4"
+      },
+      {
+        "name": "Lateral High-knee Shuffle",
+        "sets": "3",
+        "reps": "5 / direction",
+        "cue": "Pump arms vigorously. Knees lift high.",
+        "videoFilename": "Lateral-high-knee-shuffles.mp4"
+      },
+      {
+        "name": "Dead Bugs",
+        "sets": "3",
+        "reps": "12 total",
+        "cue": "Lower back GLUED to the floor. Move slow.",
+        "videoFilename": "Dead-bugs.mp4"
+      },
+      {
+        "name": "Frog Broad Jumps",
+        "sets": "3",
+        "reps": "6 jumps",
+        "cue": "Land soft in frog-like stance (squat).",
+        "videoFilename": "Frog-broad-jumps.mp4"
+      },
+      {
+        "name": "Mountain Climbers (Burnout)",
+        "sets": "1",
+        "reps": "60 sec",
+        "cue": "Drive knees to chest. Keep hips low.",
+        "videoFilename": "Mountain-climbers.mp4"
+      }
+    ]
+  },
+  "recovery": {
+    "title": "Daily Recovery",
+    "theme": "Arm Care & Mobility",
+    "audioFilename": "recovery-intro.mp3",
+    "exercises": [
+      {
+        "name": "Wrist/Forearm Flexor Stretch",
+        "sets": "2",
+        "reps": "30s / arm",
+        "cue": "Arm straight, palm facing out. Pull fingers back gently.",
+        "videoFilename": "Wrist-flexor.mp4"
+      },
+      {
+        "name": "Cross-Body Shoulder Stretch",
+        "sets": "2",
+        "reps": "30s / arm",
+        "cue": "Pull arm across chest lightly. Keep shoulder relaxed.",
+        "videoFilename": "Cross-shoulder-stretch.mp4"
+      },
+      {
+        "name": "Tricep Overhead Stretch",
+        "sets": "2",
+        "reps": "30s / arm",
+        "cue": "Reach down center of back. Gentle pull on the elbow.",
+        "videoFilename": "Tricep-overhead-stretch.mp4"
+      },
+      {
+        "name": "Kneeling Hip Flexor Stretch",
+        "sets": "2",
+        "reps": "45s / leg",
+        "cue": "Squeeze glute of the kneeling leg. Push hips forward gently.",
+        "videoFilename": "Kneeling-hip-flexor.mp4"
+      },
+      {
+        "name": "Figure Four Stretch",
+        "sets": "2",
+        "reps": "30s / leg",
+        "cue": "Cross ankle over opposite knee. Pull thigh towards chest.",
+        "videoFilename": "Number-four-stretch.mp4"
+      },
+      {
+        "name": "Single Leg Stretch",
+        "sets": "2",
+        "reps": "30s / leg",
+        "cue": "One leg out, one leg in. Reach for toes with a flat back.",
+        "videoFilename": "Single-leg-stretch.mp4"
+      },
+      {
+        "name": "Child’s Pose",
+        "sets": "2",
+        "reps": "60s hold",
+        "cue": "Sit back on heels, reach arms forward. Breathe deep into ribs.",
+        "videoFilename": "Child-pose.mp4"
+      }
+    ]
+  }
+}
