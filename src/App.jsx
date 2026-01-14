@@ -722,7 +722,7 @@ function App() {
         <header className="app-header">
           <div className="header-title-row">
             <img src="/icon.png" className="app-logo" alt="Logo" />
-            <h1>Coach D's Baseball Training</h1>
+            <h1>Coach D's Daily Training</h1>
           </div>
           <button onClick={handleManualRefresh} className="refresh-btn">
             Tap to Refresh App
