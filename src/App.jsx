@@ -590,7 +590,32 @@ const HomeView = () => (
     <div style={{ marginBottom: '24px' }}>
       <AudioPlayer filename="home-welcome.mp3" label="Welcome Message from Coach" />
     </div>
-
+<div style={{ marginTop: '30px', marginBottom: '30px' }}>
+        <h2>Baseball Highlight Video of the Day</h2>
+        <div style={{ 
+          position: 'relative', 
+          paddingBottom: '56.25%', /* 16:9 aspect ratio */ 
+          height: 0, 
+          overflow: 'hidden',
+          borderRadius: '10px',
+          boxShadow: '0 4px 8px rgba(0,0,0,0.2)'
+        }}>
+          <iframe 
+            src="https://www.youtube.com/embed/xNw7RHr2-Hw" 
+            title="Baseball Highlight Video"
+            style={{ 
+              position: 'absolute', 
+              top: 0, 
+              left: 0, 
+              width: '100%', 
+              height: '100%',
+              border: 'none'
+            }}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowFullScreen
+          ></iframe>
+        </div>
+      </div>
     <div className="exercise-card">
       <div className="exercise-info">
         <h3>How to use this app</h3>
