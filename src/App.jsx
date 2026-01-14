@@ -602,7 +602,6 @@ const HomeView = () => (
         }}>
           <iframe 
             src="https://www.youtube.com/embed/xNw7RHr2-Hw" 
-            title="Baseball Highlight Video"
             style={{ 
               position: 'absolute', 
               top: 0, 
