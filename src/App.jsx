@@ -657,10 +657,21 @@ const ContactView = () => (
         <div className="contact-details" style={{ marginTop: '20px' }}>
           <p>📧 <strong>Email:</strong> derronda@revealbetter.com</p>
           <p>📱 <strong>Phone:</strong> (202) 768-7648</p>
-          <p>🌐 <strong>Website:</strong> www.revealbetter.com</p>
+          <p>🌐 <strong>Website: </strong><a href="https://www.revealbetter.com" target="_blank" rel="noopener noreferrer" style={{ color: '#4da6ff', textDecoration: 'underline' }}>
+  www.revealbetter.com</a></p>
         </div>
       </div>
     </div>
+    <div style={{ textAlign: 'center', marginTop: '50px', paddingBottom: '20px', borderTop: '1px solid rgba(255,255,255,0.2)', paddingTop: '20px' }}>
+        <img 
+          src="/reveal-logo.png" 
+          alt="Reveal LLC Logo" 
+          style={{ maxWidth: '120px', height: 'auto', display: 'block', margin: '0 auto' }} 
+        />
+        <p style={{ marginTop: '10px', fontSize: '14px', color: '#ccc', fontWeight: 'bold' }}>
+          Reveal, LLC
+        </p>
+      </div>
   </div>
 );
 
