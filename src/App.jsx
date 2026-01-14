@@ -440,7 +440,7 @@ const SplashScreen = () => (
   <div className="splash-screen">
     <div className="splash-content">
       <img src="/icon.png" className="splash-logo" alt="Coach D Baseball" />
-      <h1 className="splash-title">Coach D's<br/>Baseball Training</h1>
+      <h1 className="splash-title">Coach D's<br/>Daily Workouts</h1>
     </div>
   </div>
 );
@@ -745,7 +745,7 @@ function App() {
       <div style={{ opacity: showSplash ? 0 : 1, transition: 'opacity 1s ease' }}>
         <header className="app-header">
           <div className="header-title-row">
-            <h1>Coach D's Daily Training</h1>
+            <h1>Coach D's Daily Workouts</h1>
           </div>
           <button onClick={handleManualRefresh} className="refresh-btn">
             Tap to Refresh App
